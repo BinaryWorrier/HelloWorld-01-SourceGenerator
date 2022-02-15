@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HelloSourceGenerator": {
+      "commandName": "Project"
+    }
+  }
+}
